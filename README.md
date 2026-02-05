@@ -1,2 +1,8 @@
-QA learning repository.
-I am learning Git step by step.
+# QA Learning Project
+
+This repository contains my QA learning practice.
+
+## Contents
+- Test cases (manual)
+- Checklists
+- Bug reports
